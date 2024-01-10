@@ -1,3 +1,3 @@
 # Basics
 This is my first Git Repository
-Author-Lokesh
+Author-Lokesh Murala
